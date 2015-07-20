@@ -24,7 +24,7 @@ map.test.url.microsoft=http://dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=
     
     <taskdef resource="net/sf/antcontrib/antlib.xml">
         <classpath>
-            <pathelement location="lib/ant-contrib-1.0b3.jar"/>
+            <pathelement location="lib/ant-contrib-0.6.jar"/>
         </classpath>
     </taskdef>
     
